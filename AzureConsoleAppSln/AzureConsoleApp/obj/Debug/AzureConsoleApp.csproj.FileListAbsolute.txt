@@ -1,0 +1,8 @@
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\bin\Debug\AzureConsoleApp.exe.config
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\bin\Debug\AzureConsoleApp.exe
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\bin\Debug\AzureConsoleApp.pdb
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\obj\Debug\AzureConsoleApp.csproj.AssemblyReference.cache
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\obj\Debug\AzureConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\obj\Debug\AzureConsoleApp.csproj.CoreCompileInputs.cache
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\obj\Debug\AzureConsoleApp.exe
+D:\Users\carlo\source\repos\AzureConsoleAppSln\AzureConsoleApp\obj\Debug\AzureConsoleApp.pdb
